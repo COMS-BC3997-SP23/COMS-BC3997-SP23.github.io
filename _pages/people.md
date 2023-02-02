@@ -24,12 +24,19 @@ instructor:
 # do it for the OS that you are using) and navigate to the people page
 # and make sure it all looks correct. Then submit a PR.
 #
+#
+# - image_path: /assets/images/team/<your name>.<jpg or png>
+#   alt: "<your name>"
+#   title: "<your name>"
+#   excerpt: "[Personal Website](your personal website or linkedin)
+#             [Project Website](https://coms-bc3997-sp23.github.io/website-<Your GitHubID>)"
+#
 students:
    - image_path: /assets/images/team/elizabeth-walker.jpg
      alt: "Elizabeth Walker"
      title: "Elizabeth Walker"
      excerpt: "[Personal Website](http://www.elizabethwalker.site/)
-               [Project Website](/website-19ewalker)"
+               [Project Website](https://coms-bc3997-sp23.github.io/website-19ewalker)"
 
 ---
 
