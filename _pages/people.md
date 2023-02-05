@@ -38,10 +38,18 @@ students:
      excerpt: "[Personal Website](http://www.elizabethwalker.site/)
                [Project Website](https://coms-bc3997-sp23.github.io/website-19ewalker)"
 
+   - image_path: /assets/images/team/kareem-dacosta.jpg
+     alt: "Kareem DaCosta"
+     title: "Kareem DaCosta"
+     excerpt: "[Personal Website]https://kareemdacosta.vercel.app/
+#             [Project Website](https://coms-bc3997-sp23.github.io/website-KareemDaCosta/)"
+
 ---
 
 # Instructor
+
 {% include feature_row id="instructor" %}
 
 # Students
+
 {% include feature_row id="students" %}
