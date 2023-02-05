@@ -1,5 +1,4 @@
-# COMS-BC3997-S23 Website
-# Kareem DaCosta
+# Project Proposal: Kareem DaCosta
 # Project Proposal
 ## Project Purpose
 My project will be for a startup called Sustainable Sister. I will be building a website that aims to be the all-in-one online fashion shopping hub. Our primary feature will be a search engine that allows users to easily search across multiple brands while personalizing results. We are slated to release an early version of the website and app this Spring. We will then expand to additional features beyond searching to transform the search engine into a fashion hub. I can’t say more due to an NDA, but this is an overview of what we hope to accomplish.
@@ -23,7 +22,7 @@ The estimated cost of this project is $0 while in development. I intend to spend
 Markup : - **Nabihah Ahmad**, the CEO of Sustainable Sister
          - **Jake Torres**, another software engineer at Sustainable Sister who is currently working on the mobile app but could provide some aid if needed
          - **Stack Overflow**
-         - **Youtube/Blog** tutorials such as pthis one](https://towardsdatascience.com/web-scraping-of-10-online-shops-in-30-minutes-with-python-and-scrapy-a7f66e42446d?gi=835eca195ca1)
+         - **Youtube/Blog** tutorials such as [this one](https://towardsdatascience.com/web-scraping-of-10-online-shops-in-30-minutes-with-python-and-scrapy-a7f66e42446d?gi=835eca195ca1)
 My Own Experience interning as a web developer at Meta last summer where I learned React.js and Node.js/Express.js
 ## Examples
 I have worked on a few projects in React.js and Node.js/Express.js, including my personal portfolio and Dungeon Delver, a website I made last summer.
