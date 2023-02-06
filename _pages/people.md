@@ -42,7 +42,13 @@ students:
      alt: "Kareem DaCosta"
      title: "Kareem DaCosta"
      excerpt: "[Personal Website]https://kareemdacosta.vercel.app/
-#             [Project Website](https://coms-bc3997-sp23.github.io/website-KareemDaCosta/)"
+               [Project Website](https://coms-bc3997-sp23.github.io/website-KareemDaCosta/)"
+
+   - image_path: /assets/images/team/aidan-eichman.jpg
+     alt: "Aidan Eichman"
+     title: "Aidan Eichman"
+     excerpt: "[Personal Website](https://www.linkedin.com/in/aidan-eichman/)
+               [Project Website](https://coms-bc3997-sp23.github.io/website-AidanNEichman)"
 
 ---
 
