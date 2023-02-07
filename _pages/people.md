@@ -50,6 +50,12 @@ students:
      excerpt: "[Personal Website](https://www.linkedin.com/in/aidan-eichman/)
                [Project Website](https://coms-bc3997-sp23.github.io/website-AidanNEichman)"
 
+  - image_path: /assets/images/team/trinity-sazo.jpg
+     alt: "Trinity Sazo"
+     title: "Trinity Sazo"
+     excerpt: "[Personal Website](https://www.linkedin.com/in/trinitysazo/)
+               [Project Website](https://coms-bc3997-sp23.github.io/website-tsazo/)"
+
 ---
 
 # Instructor
