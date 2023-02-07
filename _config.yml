@@ -13,8 +13,8 @@ title: "COMS-BC3997-SP23: Projects in Computer Science"
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   COMS-BC3997-SP23: Projects in Computer Science
-baseurl: "/website-jz3453" # the subpath of your site, e.g. /blog
-url: "https://coms-bc3997-sp23.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  COMS-BC3997-SP23
 
