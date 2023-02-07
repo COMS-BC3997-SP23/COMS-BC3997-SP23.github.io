@@ -25,12 +25,8 @@ instructor:
 # and make sure it all looks correct. Then submit a PR.
 #
 #
-# - image_path: /assets/images/team/<your name>.<jpg or png>
-#   alt: "<your name>"
-#   title: "<your name>"
-#   excerpt: "[Personal Website](your personal website or linkedin)
-#             [Project Website](https://coms-bc3997-sp23.github.io/website-<Your GitHubID>)"
-#
+
+
 students:
    - image_path: /assets/images/team/elizabeth-walker.jpg
      alt: "Elizabeth Walker"
@@ -49,6 +45,11 @@ students:
      title: "Aidan Eichman"
      excerpt: "[Personal Website](https://www.linkedin.com/in/aidan-eichman/)
                [Project Website](https://coms-bc3997-sp23.github.io/website-AidanNEichman)"
+
+   - image_path: /assets/images/team/jessica-zhang.png
+     alt: "Jessica Zhang"
+     title: "Jessica Zhang"
+     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-jz3453)"
 
 ---
 
