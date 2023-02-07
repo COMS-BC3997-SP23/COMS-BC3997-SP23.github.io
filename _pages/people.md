@@ -25,11 +25,11 @@ instructor:
 # and make sure it all looks correct. Then submit a PR.
 #
 students:
-  # - image_path: /assets/images/team/<your name>.<jpg or png>
-  #   alt: "<your name>"
-  #   title: "<your name>"
-  #   excerpt: "[Personal Website](your personal website or linkedin)
-  #             [Project Website](/people-<Your GitHubID>)"
+   - image_path: /assets/images/team/serra.jpg
+     alt: "Serra Goker"
+     title: "Serra Goker"
+     excerpt: "[Personal Website](https://www.linkedin.com/in/serragoker/)
+               [Project Website](/people-sg3390)"
 
 ---
 
