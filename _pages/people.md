@@ -24,44 +24,48 @@ instructor:
 # do it for the OS that you are using) and navigate to the people page
 # and make sure it all looks correct. Then submit a PR.
 #
+# - image_path: /assets/images/team/<your name>.<jpg or png>
+#   alt: "<your name>"
+#   title: "<your name>"
+#   excerpt: "[Personal Website](your personal website or linkedin)
+#             [Project Website](https://coms-bc3997-sp23.github.io/website-<Your GitHubID>)"
 #
 
-
 students:
-   - image_path: /assets/images/team/elizabeth-walker.jpg
-     alt: "Elizabeth Walker"
-     title: "Elizabeth Walker"
-     excerpt: "[Personal Website](http://www.elizabethwalker.site/)
-               [Project Website](https://coms-bc3997-sp23.github.io/website-19ewalker)"
+  - image_path: /assets/images/team/elizabeth-walker.jpg
+    alt: "Elizabeth Walker"
+    title: "Elizabeth Walker"
+    excerpt: "[Personal Website](http://www.elizabethwalker.site/)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-19ewalker)"
 
-   - image_path: /assets/images/team/kareem-dacosta.jpg
-     alt: "Kareem DaCosta"
-     title: "Kareem DaCosta"
-     excerpt: "[Personal Website](https://kareemdacosta.vercel.app/)
-               [Project Website](https://coms-bc3997-sp23.github.io/website-KareemDaCosta/)"
+  - image_path: /assets/images/team/kareem-dacosta.jpg
+    alt: "Kareem DaCosta"
+    title: "Kareem DaCosta"
+    excerpt: "[Personal Website](https://kareemdacosta.vercel.app/)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-KareemDaCosta/)"
 
-   - image_path: /assets/images/team/aidan-eichman.jpg
-     alt: "Aidan Eichman"
-     title: "Aidan Eichman"
-     excerpt: "[Personal Website](https://www.linkedin.com/in/aidan-eichman/)
-               [Project Website](https://coms-bc3997-sp23.github.io/website-AidanNEichman)"
+  - image_path: /assets/images/team/aidan-eichman.jpg
+    alt: "Aidan Eichman"
+    title: "Aidan Eichman"
+    excerpt: "[Personal Website](https://www.linkedin.com/in/aidan-eichman/)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-AidanNEichman)"
 
   - image_path: /assets/images/team/trinity-sazo.jpg
-     alt: "Trinity Sazo"
-     title: "Trinity Sazo"
-     excerpt: "[Personal Website](https://www.linkedin.com/in/trinitysazo/)
-               [Project Website](https://coms-bc3997-sp23.github.io/website-tsazo/)"
+    alt: "Trinity Sazo"
+    title: "Trinity Sazo"
+    excerpt: "[Personal Website](https://www.linkedin.com/in/trinitysazo/)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-tsazo/)"
 
   - image_path: /assets/images/team/anais.jpg
-     alt: "Anaïs Lawson"
-     title: "Anaïs Lawson"
-     excerpt: "[LinkedIn](https://www.linkedin.com/in/anaislawson/)
-               [Project Website](https://coms-bc3997-sp23.github.io/website-anaisnlawson)"
+    alt: "Anaïs Lawson"
+    title: "Anaïs Lawson"
+    excerpt: "[LinkedIn](https://www.linkedin.com/in/anaislawson/)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-anaisnlawson)"
 
-   - image_path: /assets/images/team/jessica-zhang.png
-     alt: "Jessica Zhang"
-     title: "Jessica Zhang"
-     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-jz3453)"
+  - image_path: /assets/images/team/jessica-zhang.png
+    alt: "Jessica Zhang"
+    title: "Jessica Zhang"
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-jz3453)"
 
 ---
 
