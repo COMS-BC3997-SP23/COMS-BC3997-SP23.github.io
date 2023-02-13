@@ -67,6 +67,11 @@ students:
     title: "Jessica Zhang"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-jz3453)"
 
+  - image_path: /assets/images/team/luci-feinberg.jpg
+    alt: "Luci Feinberg"
+    title: "Luci Feinberg"
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-lafeinberg)"
+
 ---
 
 # Instructor
