@@ -71,6 +71,11 @@ students:
     alt: "Sai Chintalapati"
     title: "Sai Chintalapati"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-jinkim22)"
+
+  - image_path: /assets/images/team/habeeba-mansour.jpg
+    alt: "Habeeba Mansour"
+    title: "Habeeba Mansour"
+    excerpt: "[Project Website](https://github.com/COMS-BC3997-SP23/COMS-BC3997-SP23.github.io)"   
 ---
 
 # Instructor
