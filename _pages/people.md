@@ -75,7 +75,7 @@ students:
   - image_path: /assets/images/team/habeeba-mansour.jpg
     alt: "Habeeba Mansour"
     title: "Habeeba Mansour"
-    excerpt: "[Project Website](https://github.com/COMS-BC3997-SP23/COMS-BC3997-SP23.github.io)"   
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-habeeba-mansour)"   
 ---
 
 # Instructor
