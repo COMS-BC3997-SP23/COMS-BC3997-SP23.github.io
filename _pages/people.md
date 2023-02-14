@@ -77,11 +77,11 @@ students:
     title: "Habeeba Mansour"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-habeeba-mansour)" 
 
-    - image_path: /assets/images/team/chloe-n.jpeg
-      alt: "Chloe Nguyen"
-      title: "Chloe Nguyen"
-      excerpt: "[Personal Website](https://www.linkedin.com/in/chloe-nguyen2781/)
-                [Project Website](https://coms-bc3997-sp23.github.io/website-chloe2781/#)"
+  - image_path: /assets/images/team/chloe-n.jpg
+    alt: "Chloe Nguyen"
+    title: "Chloe Nguyen"
+    excerpt: "[Personal Website](https://www.linkedin.com/in/chloe-nguyen2781/)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-chloe2781/#)"
 ---
 
 # Instructor
