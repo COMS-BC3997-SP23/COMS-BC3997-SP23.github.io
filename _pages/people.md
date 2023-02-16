@@ -72,17 +72,26 @@ students:
     title: "Sai Chintalapati"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-jinkim22)"
 
+  - image_path: /assets/images/team/jinhyuk_kim.jpeg
+    alt: "Jinhyuk Kim"
+    title: "Jinhyuk Kim"
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-jinkim22)"
+
   - image_path: /assets/images/team/habeeba-mansour.jpg
     alt: "Habeeba Mansour"
     title: "Habeeba Mansour"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-habeeba-mansour)"
   
   - image_path: /assets/images/team/kofi.jpg
-  alt: "Kofi Meighan"
-  title: "Kofi Meighan"
-  excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-km3547/)
-            [LinkedIn](https://www.linkedin.com/in/kofimeighan)"
-  
+    alt: "Kofi Meighan"
+    title: "Kofi Meighan"
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-km3547/)
+              [LinkedIn](https://www.linkedin.com/in/kofimeighan)"
+    
+  - image_path: /assets/images/team/elvina-wibisono.jpg
+    alt: "Elvina Wibisono"
+    title: "Elvina Wibisono"
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-elvinawibisono/)"
 ---
 
 # Instructor
