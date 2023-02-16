@@ -67,6 +67,12 @@ students:
     title: "Jessica Zhang"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-jz3453)"
 
+  - image_path: /assets/images/team/serra.jpg
+    alt: "Serra Goker"
+    title: "Serra Goker"
+    excerpt: "[Personal Website](https://www.linkedin.com/in/serragoker/)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-sg3390)"
+
   - image_path: /assets/images/team/sai-chintalapati.png
     alt: "Sai Chintalapati"
     title: "Sai Chintalapati"
