@@ -72,10 +72,10 @@ students:
     title: "Sai Chintalapati"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-jinkim22)"
 
-  -image_path: /assets/images/team/jinhyuk_kim.jpg
-   alt: "Jinhyuk Kim"
-   title: "Jinhyuk Kim"
-   excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-jinkim22)"
+  - image_path: /assets/images/team/jinhyuk_kim.jpeg
+    alt: "Jinhyuk Kim"
+    title: "Jinhyuk Kim"
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-jinkim22)"
 
   - image_path: /assets/images/team/habeeba-mansour.jpg
     alt: "Habeeba Mansour"
