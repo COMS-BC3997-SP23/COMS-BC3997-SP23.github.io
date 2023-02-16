@@ -98,6 +98,11 @@ students:
     alt: "Elvina Wibisono"
     title: "Elvina Wibisono"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-elvinawibisono/)"
+
+  - image_path: /assets/images/team/luci-feinberg.jpg
+    alt: "Luci Feinberg"
+    title: "Luci Feinberg"
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-lafeinberg)"
 ---
 
 # Instructor
