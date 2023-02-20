@@ -115,6 +115,12 @@ students:
     title: "Alekhya Maram"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/alekhyamaram/)"
   
+  - image_path: /assets/images/team/helen.jpeg
+    alt: "Helen Wang"
+    title: "Helen Wang"
+    excerpt: "[Personal Website](https://sites.google.com/view/helen-wang/art)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-helenw0810/)"
+  
 ---
 
 # Instructor
