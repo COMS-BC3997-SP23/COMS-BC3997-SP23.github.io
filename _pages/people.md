@@ -37,7 +37,13 @@ students:
     title: "Elizabeth Walker"
     excerpt: "[Personal Website](http://www.elizabethwalker.site/)
               [Project Website](https://coms-bc3997-sp23.github.io/website-19ewalker)"
+    
+  - image_path: /assets/images/team/sabrinam-projectsCsClass.jpg
+    alt: "Sabrina Meng"
+    title: "Sabrina Meng"
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-sabjmeng/)"
 
+    
   - image_path: /assets/images/team/kareem-dacosta.jpg
     alt: "Kareem DaCosta"
     title: "Kareem DaCosta"
