@@ -110,7 +110,7 @@ students:
     title: "Luci Feinberg"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-lafeinberg)"
 
-  - image_path: /assets/images/team/alekhya.png
+  - image_path: /assets/images/team/alekhyam.png
     alt: "Alekhya Maram"
     title: "Alekhya Maram"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-AlekhyaMaram)"
