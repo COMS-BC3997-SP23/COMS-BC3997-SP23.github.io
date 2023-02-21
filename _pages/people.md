@@ -38,7 +38,7 @@ students:
     excerpt: "[Personal Website](http://www.elizabethwalker.site/)
               [Project Website](https://coms-bc3997-sp23.github.io/website-19ewalker)"
     
-  - image_path: /assets/images/team/sabrinam-projectsCsClass.jpg
+  - image_path: /assets/images/team/sabrinam-csprojects.jpg
     alt: "Sabrina Meng"
     title: "Sabrina Meng"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-sabjmeng/)"
