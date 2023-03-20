@@ -126,6 +126,11 @@ students:
     title: "Helen Wang"
     excerpt: "[Personal Website](https://sites.google.com/view/helen-wang/art)
               [Project Website](https://coms-bc3997-sp23.github.io/website-helenw0810/)"
+
+  - image_path: /assets/images/team/jamie.jpg
+    alt: "Jamie Bergen"
+    title: "Jamie Bergen"
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-BergenJamie/)"
   
 ---
 
