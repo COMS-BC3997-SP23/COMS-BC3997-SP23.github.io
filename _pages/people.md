@@ -131,6 +131,12 @@ students:
     alt: "Jamie Bergen"
     title: "Jamie Bergen"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-BergenJamie/)"
+
+  - image_path: /assets/images/team/angel-cui.jpeg
+    alt: "Angel (Leyi) Cui"
+    title: "Angel (Leyi) Cui"
+    excerpt: "[Personal Website](https://leyicui-angel.github.io/)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-LeyiCui-Angel)"
   
 ---
 
