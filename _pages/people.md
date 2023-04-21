@@ -137,6 +137,26 @@ students:
     title: "Angel (Leyi) Cui"
     excerpt: "[Personal Website](https://leyicui-angel.github.io/)
               [Project Website](https://coms-bc3997-sp23.github.io/website-LeyiCui-Angel)"
+
+  - image_path: /assets/images/team/fatima.jpeg
+    alt: "Fatima Azimova"
+    title: "Fatima Azimova"
+    excerpt: "[Personal Website](https://www.linkedin.com/in/fatima-azimova-7091371aa/)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-adibahussain19/)"
+
+  - image_path: /assets/images/team/nazaret.jpeg
+    alt: "Nazaret Cuadros"
+    title: "Nazaret Cuadros"
+    excerpt: "[Personal Website](https://www.linkedin.com/in/nazaretc/)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-adibahussain19/)"
+
+  - image_path: /assets/images/team/adiba.jpeg
+    alt: "Adiba Hussain"
+    title: "Adiba Hussain"
+    excerpt: "[Personal Website](https://www.linkedin.com/in/adibahussain/)
+              [Project Website](https://coms-bc3997-sp23.github.io/website-adibahussain19/)"
+
+
   
 ---
 
