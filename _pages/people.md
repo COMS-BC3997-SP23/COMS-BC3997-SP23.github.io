@@ -156,7 +156,15 @@ students:
     excerpt: "[Personal Website](https://www.linkedin.com/in/adibahussain/)
               [Project Website](https://coms-bc3997-sp23.github.io/website-adibahussain19/)"
 
+  - image_path: /assets/images/team/nikita.jpeg
+    alt: "Nikita Thomas"
+    title: "Nikita Thomas"
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-nt2551/)"
 
+  - image_path: /assets/images/team/lily.jpeg
+    alt: "Lily Cai"
+    title: "Lily Cai"
+    excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-cc4672/)"
   
 ---
 
