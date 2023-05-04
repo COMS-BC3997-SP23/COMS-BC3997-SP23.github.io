@@ -165,6 +165,12 @@ students:
     alt: "Lily Cai"
     title: "Lily Cai"
     excerpt: "[Project Website](https://coms-bc3997-sp23.github.io/website-cc4672/)"
+
+  - image_path: /assets/images/team/missing.png
+    alt: "Ari An"
+    title: "Ari An"
+    excerpt: "[Project Updates](https://coms-bc3997-sp23.github.io/website-ja3569/README.md)
+              [Resulting Website](https://coms-bc3997-sp23.github.io/website-ja3569)"
   
 ---
 
